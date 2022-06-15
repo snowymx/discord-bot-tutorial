@@ -1,6 +1,5 @@
 # discord-bot-tutorial
 
-![image](https://user-images.githubusercontent.com/83990956/173759488-6d5d58c7-27ae-4c21-b5b7-a2a82f1ea573.png)
 
 ![image](https://user-images.githubusercontent.com/83990956/173759554-9dd275d9-5217-4f7b-9f5b-f96a9511b364.png)
 
