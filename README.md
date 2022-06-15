@@ -1,5 +1,8 @@
 # discord-bot-tutorial
 
+This is a simple discord bot tutorial when user send message Hello, the bot will reply Hello!
+
+
 #Create a new application on discord developer portal
 
 ![image](https://user-images.githubusercontent.com/83990956/173761756-cc079417-8912-49d7-afda-d5990aa5d254.png)
